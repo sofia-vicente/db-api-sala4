@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+}
+
+body {
+  background-image: url("https://store-images.s-microsoft.com/image/apps.51830.14010245287952954.c032cb0d-51b3-4267-96c1-d6615ed48cea.97db6ad4-bb25-4452-acdb-d874127dabea?q=90&w=480&h=270");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(6, 0, 43, 0.55);
+  background-blend-mode: color;
+}
+
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
